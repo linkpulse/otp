@@ -1,5 +1,5 @@
 {
-    "name": "christian-riesen/otp",
+    "name": "linkpulse/otp",
     "type": "library",
     "description": "One Time Passwords, hotp and totp according to RFC4226 and RFC6238",
     "keywords": ["otp","hotp","totp","googleauthenticator","rfc4226","rfc6238"],
